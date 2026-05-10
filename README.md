@@ -17,11 +17,11 @@ Founder of [IDXhub](https://idxhub.space), growing Kenya's hardware tech communi
 
 See [all projects →](https://github.com/bravin?tab=repositories)
 
-## Latest writing
+// ## Latest writing
 
-- [Post title here](#) — 2026-MM-DD
-- [Post title here](#) — 2026-MM-DD
-- [Post title here](#) — 2026-MM-DD
+//- [Post title here](#) — 2026-MM-DD
+//- [Post title here](#) — 2026-MM-DD
+//- [Post title here](#) — 2026-MM-DD//
 - [Post title here](#) — 2026-MM-DD
 - [Post title here](#) — 2026-MM-DD
 
