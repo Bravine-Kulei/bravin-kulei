@@ -2,7 +2,7 @@
 
 DevOps Engineer at [Jupiter AI Labs](https://jupiterailabs.com) and Embedded Automation Engineer at [Pixel Engineering Africa](#). Building IoT and embedded systems from Nakuru, Kenya.
 
-Founder of [IDXhub](https://idxhub.space), growing Kenya's hardware tech community through meetups, hackathons, and open hardware.
+Builder at [IDXhub](https://idxhub.space), growing Kenya's hardware tech community through meetups, hackathons, and open hardware.
 
 ## What I build
 
