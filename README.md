@@ -8,7 +8,7 @@ Builder at [IDXhub](https://idxhub.space), growing Kenya's hardware tech communi
 
 | Project | Description |
 | --- | --- |
-| [IDXhub community](https:community.idxhub.space) | Community for IoT Harrdware and Electronics R&D base for hardware and IoT &nbsp;`★` |
+| [IDXhub community](https:community.idxhub.space) | Community for IoT Harrdware and Electronics R&D base for hardware and IoT `★` |
 | [Grant Radar](https://github.com/bravinkulei/grant-radar) | AI-powered grant discovery pipeline for African founders &nbsp;`★` |
 | [AI Hydroponics](https://github.com/bravin/ai-hydroponics) | Smart hydroponics for smallholder farmers &nbsp;`★` |
 | [AgriFund](https://github.com/bravin/agrifund) | Agricultural crowdfunding PaaS &nbsp;`★` |
