@@ -22,7 +22,7 @@ See [all projects →](https://github.com/bravin?tab=repositories)
 
 ## Links
 
-[idxhub.space](https://idxhub.space) · [twitter](https://twitter.com/kb_bravine) · [linkedin](https://linkedin.com/in/bravin)
+[idxhub.space](https://idxhub.space) · [twitter](https://twitter.com/kb_bravine) · [linkedin](https://linkedin.com/in/bravinkulei)
 
 ---
 
